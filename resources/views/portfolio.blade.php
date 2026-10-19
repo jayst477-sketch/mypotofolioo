@@ -219,13 +219,18 @@
                 <p class="text-gray-400 text-sm">Hubungi saya untuk kolaborasi proyek PPLG, tugas akhir, atau diskusi seputar pemrograman.</p>
             </div>
             <div class="flex flex-wrap items-center gap-4">
-                <!-- Tombol Kotak Email -->
-                <a href="mailto:yusup@pplg.test" title="Kirim Email" class="w-12 h-12 bg-cardDark border border-gray-700 hover:border-neonGreen rounded-xl flex items-center justify-center transition">
-                    <i class="fa-solid fa-envelope text-lg text-neonGreen"></i>
-                </a>
+               <!-- Tombol GitHub -->
+<a href="https://github.com/jayst477-sketch"
+   target="_blank"
+   rel="noopener noreferrer"
+   title="Kunjungi GitHub Saya"
+   class="w-12 h-12 bg-cardDark border border-gray-700 hover:border-neonGreen rounded-xl flex items-center justify-center transition">
+
+    <i class="fa-brands fa-github text-lg text-neonGreen"></i>
+</a>
                 
-                <!-- Tombol Kotak WhatsApp (Ganti nomor 6281234567890 dengan nomor WhatsApp Anda) -->
-                <a href="https://wa.me/6281234567890?text=Halo%20Yusup,%20saya%20tertarik%20dengan%20portofolio%20PPLG%20Anda." target="_blank" title="Chat WhatsApp" class="w-12 h-12 bg-cardDark border border-gray-700 hover:border-emerald-500 rounded-xl flex items-center justify-center transition">
+                <!-- Tombol Kotak WhatsApp (Ganti nomor 6283878401680 dengan nomor WhatsApp Anda) -->
+                <a href="https://wa.me/6283878401680?text=Halo%20Yusup,%20saya%20tertarik%20dengan%20portofolio%20PPLG%20Anda." target="_blank" title="Chat WhatsApp" class="w-12 h-12 bg-cardDark border border-gray-700 hover:border-emerald-500 rounded-xl flex items-center justify-center transition">
                     <i class="fa-brands fa-whatsapp text-lg text-emerald-400"></i>
                 </a>
             </div>
